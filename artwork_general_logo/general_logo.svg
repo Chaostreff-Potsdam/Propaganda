@@ -16,7 +16,8 @@
    inkscape:version="1.0.1 (c497b03c, 2020-09-10)"
    sodipodi:docname="general_logo.svg"
    inkscape:export-xdpi="47.999996"
-   inkscape:export-ydpi="47.999996">
+   inkscape:export-ydpi="47.999996"
+   inkscape:export-filename="cover_250.png">
   <defs
      id="defs1845">
     <clipPath
@@ -52,16 +53,16 @@
   </defs>
   <sodipodi:namedview
      id="base"
-     pagecolor="#ffffff"
+     pagecolor="#e9e1d9"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1.2976829"
-     inkscape:cx="307.38454"
-     inkscape:cy="241.58444"
+     inkscape:cx="258.83647"
+     inkscape:cy="246.20807"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g2437"
      showgrid="false"
      fit-margin-top="2"
      fit-margin-left="2"
@@ -82,7 +83,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -139,16 +140,15 @@
          transform="rotate(-2,11701.637,384.88801)"
          id="g2445">
         <image
-           sodipodi:absref="logo-low.png"
            xlink:href="logo-low.png"
-           y="96.159134"
-           x="37.727921"
-           id="image2443"
-           preserveAspectRatio="none"
-           height="46.17979"
-           width="46.17979"
+           clip-path="url(#clipPath7366)"
            style="stroke-width:1.66887"
-           clip-path="url(#clipPath7366)" />
+           width="46.17979"
+           height="46.17979"
+           preserveAspectRatio="none"
+           id="image2443"
+           x="37.727921"
+           y="96.159134" />
       </g>
     </g>
   </g>
